@@ -1,4 +1,4 @@
-# Cargo Operations Intelligence Dashboard
+# Cargo Operations Analytics Dashboard
 
 ## Overview
 
